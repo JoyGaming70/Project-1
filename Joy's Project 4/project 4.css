@@ -1,0 +1,130 @@
+
+.head{
+    height:30px;
+    width:100%;
+    background-color: rgb(67, 116, 94);
+}
+.head i{
+    color:whitesmoke;
+}
+.search{
+    background-color: rgb(67, 116, 94);
+}
+.banner{
+    position:absolute;
+}
+ul{
+    position:relative;
+    list-style-type: none;
+    background-color:rgb(255, 255, 255);
+    height: 45px;
+    width: 600px;
+    text-align:center;
+    padding:10px;
+    float:right;
+}
+ul a{
+    text-decoration:none;
+}
+li{
+    display:inline;
+    padding: 10px;
+}
+.div3{
+    border: 4px solid rgb(213, 213, 213);
+    /* height: 380px; */
+    width:100%;
+}
+.span{
+    background-color: rgb(39, 154, 104);
+    color:whitesmoke;
+    height:15px;
+    width: 140px;
+    border-radius: 2px;
+}
+.seemore{
+    text-decoration: none;
+
+}
+/* #row{
+    padding-top: 45px;
+} */
+#border{
+    border-top:5px solid rgb(70, 177, 60);
+}
+#border2{
+    border-top:5px solid red;
+}
+.card-body a{
+    color:rgb(18, 43, 128);
+}
+/* .card-body a:hover{
+    color:red;
+} */
+#border:hover{
+    border-top:5px solid red;
+
+}
+.card-ms-4{
+    box-shadow: 0px 3px 2px 1px solid red;
+}
+/* .div5{
+    background-color:rgb(241, 241, 241);
+    padding: 15px;
+} */
+.div6{
+    background-color:rgb(241, 241, 241);
+    padding: 15px;
+}
+.text-end{
+    text-align:right;
+}
+.div7{
+    background-color:rgb(241, 241, 241);
+    padding: 15px;
+}
+.div9{
+    background-color:rgb(241, 241, 241);
+    padding: 5px;
+}
+.div10{
+    border-top:3px solid rgb(70, 177, 60);
+    background-color:rgb(241, 241, 241);
+    padding: 5px;
+}
+#icon{
+    color:rgb(70, 177, 60);
+}
+#facebook{
+    color:rgb(18, 43, 128);
+    border: 1px solid rgb(18, 43, 128);
+    border-radius: 50%;
+    padding:10px;
+}
+#facebook:hover{
+    border: 1px solid red;
+    color:rgb(0, 255, 42) ;
+}
+.div12 a:hover{
+    color:red;
+}
+#row3{
+    border-top: 3px solid rgb(70, 177, 60);;
+}
+.cont a:hover{
+    color:red;
+}
+.arrow{
+    float:right;
+    color:whitesmoke;
+    background-color: rgb(70, 177, 60);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding-top:6px;
+    padding-left:9px;
+}
+#Home a:hover{
+    color:red;
+
+}
